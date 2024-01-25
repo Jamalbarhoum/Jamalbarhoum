@@ -58,9 +58,20 @@
 
 
 </h2>
-      <h2>🌋 Frontend Development : </h2>
+      <h2>🌋 Frontend Development :
+
   <br/>
   <br/>
+      <img alt="Static Badge" src="https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react">
+      <img alt="Static Badge" src="https://img.shields.io/badge/React_Router-%239e1b32?style=for-the-badge&logo=ReactRouter&logoColor=%23fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/jquery-%230066b2?style=for-the-badge&logo=jquery">
+<img alt="Static Badge" src="https://img.shields.io/badge/css-%230066b2?style=for-the-badge&logo=Css3&logoColor=%23fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237B68EE?style=for-the-badge&logo=bootstrap&logoColor=%23fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/redux-%2300538C?style=for-the-badge&logo=redux&logoColor=%23fff">
+
+
+      </h2>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamalbarhoum&show_icons=true&locale=en&layout=compact" alt="jamalbarhoum" /></p>
 
