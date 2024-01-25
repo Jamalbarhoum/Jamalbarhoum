@@ -31,7 +31,7 @@
   
 <div  align="start"> 
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Redux**
 
 - 🔭 Finishing [Joy Joy](https://github.com/C9-jamalbarhoum/MERAKI_Academy_Project_4)
 
