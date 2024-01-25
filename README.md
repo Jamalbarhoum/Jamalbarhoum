@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jamal Barhoum</h1>
 <h1 align="start">Contact me :
   <br/>
-  <img href="https://web.facebook.com/jamal.barhom/" src="https://img.shields.io/badge/Facebook-blue"><img>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">
+  <img src="https://img.shields.io/badge/Facebook-blue"><img>
+  <img alt="https://www.instagram.com/xalbedawi/" src="https://img.shields.io/badge/Instagram-red">
+
 </h1>
 
 <h3 align="center">FullStack || FrontEnd || BackEnd ||developer</h3>
