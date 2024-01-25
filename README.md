@@ -2,6 +2,7 @@
 <br/>
 </h1>
   <P> I am writing to introduce myself as a self-motivated, detail-oriented, and organized software developer with a deep passion for coding and a strong ability to learn quickly and adapt to new technologies.</P>
+  <P>"persistent person is like a steady flame that refuses to be extinguished, regardless of the winds of adversity blowing its way"</P>
   <br/>
   <br/>
 <h1 align="start">Contact me :
