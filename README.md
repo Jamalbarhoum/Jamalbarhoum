@@ -2,13 +2,18 @@
 <br/>
 </h1>
   <P> I am writing to introduce myself as a self-motivated, detail-oriented, and organized software developer with a deep passion for coding and a strong ability to learn quickly and adapt to new technologies.</P>
+  <br/>
+  <h5>Gmail : 
+  <br/>
+    jamallbarhoum@gmail.com
+  </h5>
 <h1 align="start">Contact me :
   <br/>
   <br/>
 
-<a href="">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23A52A2A?style=for-the-badge&logo=gmail&logoColor=%23fff">
-</a> 
+
 
 <a href="https://www.linkedin.com/in/jamal-barhoum/"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230066b2?style=for-the-badge&logo=Linkedin&logoColor=%23fff">
