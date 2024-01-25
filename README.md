@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamal Barhoum</h1>
 <h3 align="center">FullStack || FrontEnd || BackEnd ||developer</h3>
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGYyamIxNmFnNHZxY2RlaWF3emY0dXFoazlpYmUwdDU5MTA4ODk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGYyamIxNmFnNHZxY2RlaWF3emY0dXFoazlpYmUwdDU5MTA4ODk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamalbarhoum&label=Profile%20views&color=0e75b6&style=flat" alt="jamalbarhoum" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
