@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jamal Barhoum</h1>
 <h1 align="start">Contact me :
   <br/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">
-  <img src="https://img.shields.io/badge/Facebook-blue"><img>
-  <img alt="https://www.instagram.com/xalbedawi/" src="https://img.shields.io/badge/Instagram-red">
-
+ <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23A52A2A?style=for-the-badge&logo=gmail&logoColor=%23fff">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230066b2?style=for-the-badge&logo=Linkedin&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=%23fff">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23DE3163?style=for-the-badge&logo=Instagram&logoColor=%23fff">
 </h1>
 
 <h3 align="center">FullStack || FrontEnd || BackEnd ||developer</h3>
