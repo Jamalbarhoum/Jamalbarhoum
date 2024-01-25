@@ -28,8 +28,9 @@
 
 
   
-<div  align="start">
- - 🌱 I’m currently learning **React Native**
+<div  align="start"> 
+  
+- 🌱 I’m currently learning **React Native**
 
 - 🔭 Finishing [Joy Joy](https://github.com/C9-jamalbarhoum/MERAKI_Academy_Project_4)
 
