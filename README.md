@@ -31,9 +31,9 @@
   
 <div  align="start"> 
   
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **react native**
 
-- 🔭 Finishing [Joy Joy](https://github.com/C9-jamalbarhoum/MERAKI_Academy_Project_4)
+- 🔭 Finishing [TALAQI](https://github.com/ErrorTeamCodeXx/TALAQI_PlatForm)
 
 - 💬 Ask me about **javaScript|| css ||html|| react.js || node.js ||jquery ||DOM||**
 
