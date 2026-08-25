@@ -89,12 +89,5 @@ Today my focus is **Frontend excellence** (React / Next.js / TypeScript), while 
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jamalbarhoum&show_icons=true&theme=transparent&hide_border=true&title_color=C4784A&icon_color=C4784A&text_color=5A6572" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamalbarhoum&layout=compact&theme=transparent&hide_border=true&title_color=C4784A&text_color=5A6572" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Jamalbarhoum&theme=transparent&hide_border=true&ring=C4784A&fire=C4784A&currStreakLabel=5A6572" alt="GitHub streak" />
 
 </div>
