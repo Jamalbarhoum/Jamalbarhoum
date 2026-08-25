@@ -37,9 +37,10 @@
 
 - 💬 Ask me about **javaScript|| css ||html|| react.js || node.js ||jquery ||DOM||**
 
+- 📫 How to reach me Gmail : **jamallazeeez@gmail.com**
 - 📫 How to reach me Gmail : **jamallbarhoum@gmail.com**
-- 📫 How to reach me web Site : **https://jamallbarhoum.netlify.app/**
-- 📫 How to reach me phone Number : **+962795956217
+- 📫 How to reach me web Site : **https://https://jamalbarhoum.com/**
+- 📫 How to reach me phone Number : **+966564324552
 **
 
 - ⚡ Fun fact **If you think sports are no fun, then have you ever experienced athletes laughing while doing yoga**
